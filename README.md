@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/DeepLearning/HEAD)
 
-Ein Binder-Kompatibles Repository mit einer requirements.txt und runtime.txt Datei.
+Ein Binder-Kompatibles Repository mit einer `requirements.txt` und `runtime.txt` Datei.
 
 Sie können auch unter der folgenden Binder-URL dieses Notebook erzeugen:
 
@@ -21,9 +21,12 @@ Die Daten welches in den ML-Beispielen verwendet wurden, sind ebenfalls direkt a
 
 ### Notes
 
-Die requirements.txt Datei listet alle Python-Bibliotheken auf, die für dieses Notebook erforderlich sind. Diese werden automatisch installiert:
+Die `requirements.txt` Datei listet alle Python-Bibliotheken auf, die für dieses Notebook erforderlich sind. Diese werden automatisch installiert:
 
+```
 pip install -r requirements.txt
+```
+
 In diesem Beispiel enthaltenen Bibliotheken sind:
 
 - pandas = 1.0.1
